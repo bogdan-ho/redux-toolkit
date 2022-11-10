@@ -3,5 +3,23 @@
     "@reduxjs/toolkit": "^1.9.0",
     "eslint": "^8.27.0",
     "react-redux": "^8.0.5"
-  }
+  },
+  "name": "redux-toolkit",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdan-ho/redux-toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdan-ho/redux-toolkit/issues"
+  },
+  "homepage": "https://github.com/bogdan-ho/redux-toolkit#readme"
 }
